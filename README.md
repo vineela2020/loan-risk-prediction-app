@@ -71,15 +71,6 @@ The Streamlit web application predicts:
 based on customer financial behaviour
 
 
-
-
-
-
-
-https://github.com/user-attachments/assets/73378aa8-9c9e-437a-854e-272607d09d81
-
-
-
 https://github.com/user-attachments/assets/db7551df-7542-4bb1-9c3c-73e82c732f52
 
 
